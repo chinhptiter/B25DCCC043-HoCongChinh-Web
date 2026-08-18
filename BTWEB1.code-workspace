@@ -1,3 +1,100 @@
-{
-	"folders": []
-}
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Giới thiệu iPhone</title>
+</head>
+
+<body>
+
+<header>
+    <h1>iPhone</h1>
+    <p>iPhone là dòng điện thoại thông minh cao cấp do Apple phát triển.</p>
+</header>
+
+<main>
+
+<section>
+    <h2>Giới thiệu chung</h2>
+    <p>iPhone được sử dụng để liên lạc, giải trí, làm việc và chụp ảnh.</p>
+</section>
+
+<section>
+    <h2>Hình ảnh minh họa</h2>
+    <img src="images/ip1.png" alt="iPhone mặt trước" width="300">
+    <img src="images/ip2.png" alt="iPhone mặt sau" width="300">
+</section>
+
+<section>
+    <h2>Đặc điểm nổi bật</h2>
+    <ul>
+        <li>Thiết kế đẹp</li>
+        <li>iOS mượt mà</li>
+        <li>Camera tốt</li>
+        <li>Hiệu năng mạnh</li>
+        <li>Bảo mật cao</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Thông tin chi tiết</h2>
+    <table border="1">
+        <tr>
+            <th>Phiên bản</th>
+            <th>Năm</th>
+            <th>Đặc điểm</th>
+        </tr>
+        <tr>
+            <td>iPhone 14</td>
+            <td>2022</td>
+            <td>Camera tốt</td>
+        </tr>
+        <tr>
+            <td>iPhone 15</td>
+            <td>2023</td>
+            <td>USB-C</td>
+        </tr>
+        <tr>
+            <td>iPhone 16</td>
+            <td>2024</td>
+            <td>AI</td>
+        </tr>
+        <tr>
+            <td>iPhone 17</td>
+            <td>2025</td>
+            <td>120Hz</td>
+        </tr>
+    </table>
+</section>
+
+<section>
+    <h2>Ưu và nhược điểm</h2>
+
+    <h3>Ưu điểm</h3>
+    <ul>
+        <li>Mạnh</li>
+        <li>Ổn định</li>
+        <li>Chụp đẹp</li>
+    </ul>
+
+    <h3>Hạn chế</h3>
+    <ul>
+        <li>Đắt</li>
+        <li>Ít tùy biến</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Tham khảo</h2>
+    <a href="https://www.apple.com/iphone/">Apple</a><br>
+    <a href="https://vi.wikipedia.org/wiki/IPhone">Wikipedia</a>
+</section>
+
+</main>
+
+<footer>
+    <p>B25DCCC043 - Hồ Công Chính</p>
+</footer>
+
+</body>
+</html>
