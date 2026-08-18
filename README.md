@@ -1,2 +1,2 @@
-# B25DCCC043-H-C-ng-Ch-nh-Web
+#B25DCCC043-HoCongChinh-Web
 Bài tập HTML buổi 1
